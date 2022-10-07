@@ -1,6 +1,11 @@
 title: Indrajeet Jadhav
 logo: /assets/img/2521 - Copy.jpg
-description: I am a Data scientist with 3.5+ working on ML, NLP and time series related problems.
-show_downloads: False
-google_analytics:
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/indrajeet-jadhav-43124378/">LinkedIn</a> |
+  <a href="https://github.com/jadhavib1908">GitHub</a>
+
+I am a Data scientist with 3.5+ working on ML, NLP and time series related problems.
+
+
 theme: jekyll-theme-minimal
