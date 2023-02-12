@@ -1,123 +1,80 @@
----
-layout: default
----
+# Data Science Projects
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a data Scientist with expertise in NLP, Machine Learning and Time Series Analysis. 
 
-[Link to another page](./another-page.html).
+## Project 1
 
-There should be whitespace between paragraphs.
+This space is reserved for short project description. This space is reserved for short project description.
+This space is reserved for short project description.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Below is the link for github repo for the project. Modify the link according to the project. 
 
-# Header 1
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jadhavib1908/Carpriceprediction)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Below is the code for image related to the project. 
+<center><img src="assets/img/logo.png"/></center>
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Project 2
 
-### Header 3
+This space is reserved for short project description. This space is reserved for short project description.
+This space is reserved for short project description.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Below is the link for github repo for the project. Modify the link according to the project. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jadhavib1908/Carpriceprediction)
 
-#### Header 4
+Below is the code for image related to the project. 
+<center><img src="assets/img/logo.png"/></center>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Project 3
 
-##### Header 5
+This space is reserved for short project description. This space is reserved for short project description.
+This space is reserved for short project description.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Below is the link for github repo for the project. Modify the link according to the project. 
 
-###### Header 6
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jadhavib1908/Carpriceprediction)
 
-| head1        | head two          | three |
+Below is the code for image related to the project. 
+<center><img src="assets/img/logo.png"/></center>
+
+
+# Education
+
+| Degree        | College          | Year |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
+| M.Tech.       | good swedish fish | nice  |
+| B.Tech. | good and plenty   | nice  |
+| H.Sc.          | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+
+# Technical skills
+
+*   **Programming:** Python
+*   **Visualization:** Python
+*   **ML:** Python
+
+# Certifications
+
+*   certification 1
+*   certification 2
+*   certification 3
+
+
+
+
 
 ### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
+# Add personal touch image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**Contact Information**
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
